@@ -2,7 +2,7 @@
 
 ```bash
 const underConstruction = () => {
-  return 'Gonna be ready soon...'
+  return 'Working on it...'
 }
 
 underConstruction()
