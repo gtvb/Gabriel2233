@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel ⚡️
+# Gabriel Tiso ⚡️
 
 <p>
     <a href="gabrieltisovinhasdebrito2@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
