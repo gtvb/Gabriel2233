@@ -10,9 +10,6 @@
 I'm a developer, and I love learning and building stuff. My main objective is improve my knowledgements, every single day. 
 
 
-- 🌱 I’m currently learning Prisma and GraphQL
-- 💬 Ask me about React, React Native and TypeScript
-
 
 > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
 
