@@ -12,12 +12,6 @@
 I'm a developer, and I love to learn and build new things. My main objective is improve my knowledgements, every single day. 
 
 
-<p>     
-     <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQACmDrYdV2NJYnQUpOwocKRJ-gsHukcUlm-kI9BnbGxUBP-brTOo8TjFC5U_66papF7MHp7tAtilK4B104a-C-PfcFMEYrF-D8Xb3Z&usqp=CAU&ec=45682162' width='123' />
-     <img src='https://miro.medium.com/max/450/1*17U-yzBfoMgkFpuawnmUnw.png' width='123' />
-     <img src='https://nexus.js.org/img/tsjs.png' width='123' />
-</p>
-
 
 > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
 
