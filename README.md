@@ -11,6 +11,7 @@
 
 I'm a developer, and I love to learn and build new things. My main objective is improve my knowledgements, every single day. 
 
+My main tools are JavaScript, ReactJs, React Native, MongoDB and NodeJs, although I'm improving my knowledgements with TypeScript, GraphQL and Prisma. Always looking for new things to know... :muscle:
 
 
 > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
