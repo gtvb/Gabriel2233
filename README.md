@@ -13,7 +13,7 @@ I'm a developer, and I love to learn and build new things. My main objective is 
 
 
 
-> When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create
+> When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
 
 
 
