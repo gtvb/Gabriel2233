@@ -7,7 +7,7 @@
       <a href="mailto:gabrieltisovinhasdebrito2@gmail.com"><img alt="Gmail" src="https://saberenemquimicaefisica.com.br/wp/wp-content/uploads/2019/05/gmail.png" title="Email" width="30px" /></a>
 </p>
 
-## About :smiley:
+## About :boy:
 
 I'm a developer, and I love to learn and build new things. My main objective is improve my knowledgements, every single day. 
 
