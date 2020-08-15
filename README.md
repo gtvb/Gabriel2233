@@ -10,9 +10,26 @@
 
 ## About :smiley:
 
-I'm a developer, and I love to learn and build new things. My main objective is improve my knowledgements, every single day. 
+Development has always been my passion, and I'm always looking forward to learn new things and discover new tools. My main objective is build things that bring value to the world, using the best technologies and strategies to help people and companies achieve their objectives.
 
-My main tools are JavaScript, ReactJs, React Native, MongoDB and NodeJs, although I'm improving my knowledgements with TypeScript, GraphQL and Prisma. Always looking for new things to know... :muscle:
+## My everyday tools :hammer:
+
+:dart: Technologies I have experience with:
+
+- ReactJS 
+- React Native
+- JavaScript
+- TypeScript
+- NodeJS
+- MongoDB
+
+:mag: Technologies I'm studying: 
+
+- GraphQL
+- NextJS
+- Strapi 
+
+I'm also improving my problem-solving skills by studying and solving problems related to algorithms, data structures and more.
 
 
 > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
