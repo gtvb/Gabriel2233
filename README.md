@@ -16,7 +16,7 @@ Development has always been my passion, and I'm always looking forward to learn 
 
 :dart: Technologies I have experience with:
 
-- ReactJS 
+- React JS 
 - React Native
 - JavaScript
 - TypeScript
