@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel :rocket:
+# Hi there, I'm Gabriel  :rocket:
 
 <p>
      <a href="https://stackoverflow.com/users/13502073/gabriel-tiso-vinhas-de-brito"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
