@@ -8,11 +8,11 @@ Development has always been my passion, and I'm always looking forward to learn 
 
 If you want to talk, it'll be a pleasure :smiley:
 
-[:speech_balloon: Linkedin](https://www.linkedin.com/in/gabrieltiso)
+[:speech_balloon: **Linkedin**](https://www.linkedin.com/in/gabrieltiso)
 
-[:bulb: StackOverflow](https://stackoverflow.com/users/13502073/gabriel-tiso-vinhas-de-brito)
+[:bulb: **StackOverflow**](https://stackoverflow.com/users/13502073/gabriel-tiso-vinhas-de-brito)
 
-[:email: Email](mailto:gabrieltisovinhasdebrito2@gmail.com)
+[:email: **Email**](mailto:gabrieltisovinhasdebrito2@gmail.com)
 
 
  
