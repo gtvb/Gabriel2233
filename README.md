@@ -1,6 +1,6 @@
-# Hey everyone! :wave:
+# Hey! :wave:
 
-I like building things everyday, and my main goal is to keep learning new stuff. I love Javascript, Typescript, Golang, React and lots of other things.
+I like wm's, golang, vim, and some other stuff. Always building... 
 
 ## Some places you can find me
 
