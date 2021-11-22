@@ -1,5 +1,5 @@
 ### hey! :wave:
 
-I like wm's, rust, golang, vim, and some other stuff. Always building...
+I like window managers, rust, golang, vim and more.
 
 :wq
